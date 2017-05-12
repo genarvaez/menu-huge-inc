@@ -137,7 +137,7 @@ nav.header-in{
 }
 
 nav.open #logo .logo {
-    background-image: url(../images/logo_white.png);
+    background-image: url(../img/icon/logo_white.png);
 }
 .solid #toggle .menu {
     background: #fff;
